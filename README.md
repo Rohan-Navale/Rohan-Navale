@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Navale Aka Ronaka</h1>
+<h1 align="center">Namaste, I'm Rohan Navale Aka Ronaka</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-navale&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-navale" /> </p>
 
 - 🌱 I’m currently learning **DSA, Web Development, 2D Animation and BlockChain**
