@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Rohan-Navale&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 What Am I doing ?:<br>🛠 Currently Building PROCTORPAL<br>🧭 Currently Exploring on UI/UX Designs and 2D Animation<br>💻 I’m currently learning Flutter and Dart<br>🤙🏻 I don't say no to UI/UX Designing, Project Development and Bike Rides<br><br>About Me:<br>< A Design and Code Enthusiast../><br><br>💻 An Android, Flutter and Java Developer<br>🖼️ UI/UX and Web Designer<br>🛠 Love building apps and crave to design frontend<br>🧑🏻‍💻 Love writing Java, Dart and building fun experiments on type-level
 
@@ -11,9 +13,3 @@ What Am I doing ?:<br>🛠 Currently Building PROCTORPAL<br>🧭 Currently Explo
 ![](https://github-readme-stats.vercel.app/api?username=Rohan-Navale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Navale&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Navale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Rohan-Navale&icon=0&color=0)](https://visitcount.itsvg.in)
