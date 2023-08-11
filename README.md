@@ -11,5 +11,4 @@ What Am I doing ?:<br>🛠 Currently Building PROCTORPAL<br>🧭 Currently Explo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Navale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rohan-Navale&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Navale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
